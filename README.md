@@ -7,3 +7,4 @@
 - Pull any new changes made to the repository and resolve any conflicts.
 
 Here's Aaron
+This is Lee
